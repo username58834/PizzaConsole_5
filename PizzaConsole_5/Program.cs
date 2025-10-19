@@ -143,7 +143,6 @@ namespace PizzaConsole_5
                             else
                             {
                                 Console.WriteLine("The pizza cannot be created: " + message);
-                                //return;
                             }
                             break;
                         case 1:
